@@ -1,0 +1,32 @@
+*{
+    color:#dd912e;
+
+}
+.card{
+    border-style:solid;
+    border-radius: 10px;
+    margin:10px;
+    margin-right: 950px;
+    padding: 7px;
+   
+}
+button{
+    background-color: #b01414;
+    border-radius: 5px;
+}
+.imagebox{
+    border-style: solid;
+    border-radius: 200px;
+    border-color: #680e56;
+    background-color: #dd912e;
+
+}
+.box{
+    border-style:solid;
+    border-radius: 10px;
+    background-color: #dd912e;
+    /* margin:10px;
+    margin-right: 950px;
+    padding: 7px; */ 
+
+}
