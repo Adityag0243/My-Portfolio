@@ -2,6 +2,14 @@
     color:#dd912e;
 
 }
+.intro{
+    text-align: center;
+}
+.project{
+    text-align: center;
+}
+
+
 .card{
     border-style:solid;
     border-radius: 10px;
@@ -28,5 +36,4 @@ button{
     /* margin:10px;
     margin-right: 950px;
     padding: 7px; */ 
-
 }
