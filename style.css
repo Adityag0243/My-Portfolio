@@ -7,13 +7,17 @@
 }
 .project{
     text-align: center;
+    border-color: #680e56;
+    box-shadow: 8px 8px 10px #60034d;
+    padding: 7px;
+    width: viewport;
 }
 
 
 .card{
     border-style:solid;
-    border-radius: 10px;
-    margin:10px;
+    border-radius: 12px;
+    margin:15px;
     margin-right: 950px;
     padding: 7px;
     width: viewport;
@@ -41,7 +45,7 @@ button{
     border-style:solid;
     border-radius: 10px;
     background-color: #dd912e;
-    box-shadow: 8px 8px 10px black;
+    box-shadow: 8px 8px 10px  #3d0131;
 
     /* margin:10px;
     margin-right: 950px;
