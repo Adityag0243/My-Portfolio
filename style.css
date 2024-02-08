@@ -40,10 +40,9 @@ button{
     border-radius: 50%;
     border-color: #680e56;
     padding: 3px;
+    margin-right: 15px;
     /* background:linear-gradient(#ee1818 ,#f6f611 ,#e61c3d ,#2424e4,#e605e6);
     padding: 2px; */
-
-
     background-color: #dd912e;
 }
 
