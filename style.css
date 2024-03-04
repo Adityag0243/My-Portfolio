@@ -48,14 +48,35 @@
     
 }
 
-button{
+/* button{
     color: #680e56;
     background-color: #c78d41;
     border-radius: 5px;
+} */
+button{
+    color: #680e56;
+    border-color: #c78d41;
+    background-color: #c78d41;
+    border-radius: 10px;
+    padding: 8px;
+    
+    /* box-shadow: #d8d6d6; */
 }
+.b:hover,.b1:hover,.b2:hover{
+    box-shadow: 2px 2px 5px #a4719a;
+}
+
+
+
+
+
 .b{
-    box-shadow: #d69393;
+    color: #680e56;
+    background-color: #c78d41;
+    border-radius: 5px;
+    /* box-shadow: #d8d6d6; */
 }
+
 .imagebox{
     border-style: solid;
     border-radius: 50%;
